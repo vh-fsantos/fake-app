@@ -6,7 +6,7 @@ Como utilizar o JSONPlaceHolder: https://jsonplaceholder.typicode.com/guide.html
 
 A aplicação renderiza uma listagem de posts, com título e nome do autor.
 
-É possível detalhar um POST, atualizar um post e apagar um post.
+É possível detalhar um post, atualizar um post e apagar um post.
 
 ## Available Scripts
 
